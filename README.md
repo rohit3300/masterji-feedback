@@ -10,3 +10,4 @@ When you encounter a Issues/Bugs while working with MasterJi website, head over 
 ## What Next?
 
 We will assign our best engineers the task to review & fix the reported issue. Thank you for taking out time to test our beta run.
+#test feedback git class
